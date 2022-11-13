@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firstscreenapps>
+  <application>
+      <apkid>com.appwallet.echomovieeffects</apkid>
+      <appname>Echo Movie Effect</appname>
+      <imageurl>http://178.128.6.196/adicon_300/echo_movie_effect.webp</imageurl>
+   </application>
+<application>
+      <apkid>com.appwallet.backgroundremoverpro</apkid>
+      <appname>Bg Remover</appname>
+      <imageurl>http://178.128.6.196/adicon/background_remover_pro.webp</imageurl>
+   </application>
+<application>
+      <apkid>com.appwallet.smarty</apkid>
+      <appname>Smarty</appname>
+      <imageurl>http://178.128.6.196/adicon/smarty.webp</imageurl>
+   </application>
+  <application>
+      <apkid>com.appwallet.photosuiteditor</apkid>
+      <appname>Photo Suit</appname>
+      <imageurl>http://178.128.6.196/adicon/photosuitpro.webp</imageurl>
+   </application>
+<application>
+      <apkid>com.appwallet.caricaturemaker</apkid>
+      <appname>Caricature</appname>
+      <imageurl>http://178.128.6.196/adicon/caricature.webp</imageurl>
+   </application>
+<application>
+      <apkid>appwallet.com.kidsphotoeditor</apkid>
+      <appname>Kids Editor</appname>
+      <imageurl>http://178.128.6.196/adicon_300/kidseditor.webp</imageurl>
+   </application>
+<application>
+      <apkid>com.appwallet.policephotosuit</apkid>
+      <appname>Police Suit</appname>
+      <imageurl>http://178.128.6.196/adicon_300/police_photo_suit.webp </imageurl>
+   </application>
+<application>
+      <apkid>com.appwallet.blendme</apkid>
+      <appname>Blend Me</appname>
+      <imageurl>http://178.128.6.196/adicon_300/blend_me.webp</imageurl>
+   </application>
+<application>
+      <apkid>com.appwallet.backgroundremoverpro</apkid>
+      <appname>Background Remover</appname>
+      <imageurl>http://178.128.6.196/adicon_300/backgroundRemover.webp</imageurl>
+   </application>
+<application>
+      <apkid>com.appwallet.menabseditor</apkid>
+      <appname>Man Abs Editor</appname>
+      <imageurl>http://178.128.6.196/adicon_300/man_abs_editor.webp </imageurl>
+   </application>
+   <application>
+      <apkid>com.appwallet.blurphotoeditor</apkid>
+      <appname>DSLR Blur</appname>
+      <imageurl>http://178.128.6.196/adicon_300/dslr_blur.webp</imageurl>
+   </application> 
+   <application>
+      <apkid>com.appwallet.echomovieeffects</apkid>
+      <appname>Echo Movie Effect</appname>
+      <imageurl>http://178.128.6.196/adicon_300/echo_movie_effect.webp</imageurl>
+   </application>
+   <application>
+      <apkid>com.appwallet.CutOut</apkid>
+      <appname>Cut Out</appname>
+      <imageurl>http://178.128.6.196/adicon_300/cut_out.webp </imageurl>
+   </application>
+   <application>
+      <apkid>com.appwallet.menbeautiplus</apkid>
+      <appname>Man Make Up</appname>
+      <imageurl>http://178.128.6.196/adicon_300/man_makeup.webp</imageurl>
+   </application>
+   <application>
+      <apkid>com.appwallet.coupletraditionaldress</apkid>
+      <appname>Couple Suit</appname>
+      <imageurl>http://178.128.6.196/adicon_300/couple_traditional_photo_suit.webp</imageurl>
+   </application>
+   <application>
+      <apkid>com.appwallet.passportphotomaker</apkid>
+      <appname>Passport Maker</appname>
+      <imageurl>http://178.128.6.196/adicon_300/passport.webp</imageurl>
+   </application>
+</firstscreenapps>

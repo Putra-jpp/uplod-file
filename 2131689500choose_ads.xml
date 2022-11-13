@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<firstscreenapps>
+ 	<application>
+		<apkid>com.appwallet.echomirrormagic</apkid>
+                <appname>Echo Mirror</appname>
+		<imageurl>http://178.128.6.196/appwalletad/echo.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.smarty</apkid>
+                <appname>Smarty</appname>
+		<imageurl>http://178.128.6.196/appwalletad/smarty.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.groomphotoeditor</apkid>
+                <appname>Man Wedding</appname>
+		<imageurl>http://178.128.6.196/appwalletad/manwedding.png</imageurl>
+	</application>
+	<application>
+		<apkid>appwallet.com.kidsphotoeditor</apkid>
+                <appname>Kids Photo Editor</appname>
+		<imageurl>http://178.128.6.196/appwalletad/kids_suit.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.faceprojector</apkid>
+                <appname>Face Projector</appname>
+		<imageurl>http://178.128.6.196/appwalletad/faceprojector.jpg</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.photowaterreflection</apkid>
+                <appname>Water Reflection</appname>
+		<imageurl>http://178.128.6.196/appwalletad/reflection.png</imageurl>
+	</application>
+    <application>
+		<apkid>com.appwallet.backgroundremoverpro</apkid>
+                <appname>Background Remover</appname>
+		<imageurl>http://178.128.6.196/appwalletad/backgroundremover.png</imageurl>
+	</application>
+	 <application>
+		<apkid>com.appwallet.policephotosuit</apkid>
+                <appname>Police Suit</appname>
+		<imageurl>http://178.128.6.196/appwalletad/police.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.manfashionphotosuit</apkid>
+                <appname>Man Suit</appname>
+		<imageurl>http://178.128.6.196/appwalletad/manfashionsuit.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.menbeautiplus</apkid>
+		<appname>Man Makeup</appname>
+		<imageurl>http://178.128.6.196/appwalletad/manmakeup.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.boysphotoeditor</apkid>
+		<appname>ManPhotoEditor</appname>
+		<imageurl>http://178.128.6.196/appwalletad/ManPhotoEditor.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.menabseditor</apkid>
+                <appname>Man Abs Editor</appname>
+		<imageurl>http://178.128.6.196/appwalletad/menabs.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.coupletraditionaldress</apkid>
+                <appname>Couple Traditional</appname>
+		<imageurl>http://178.128.6.196/appwalletad/coupletraditional.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.blurphotoeditor</apkid>
+                <appname>DSLR Blur</appname>
+		<imageurl>http://178.128.6.196/appwalletad/dslrblur.png</imageurl>
+	</application>
+        <application>
+		<apkid>com.appwallet.naturephotoeditor</apkid>
+                <appname>Nature Editor Pro</appname>
+		<imageurl>http://178.128.6.196/appwalletad/natureeditorpro.png</imageurl>
+	</application>
+        <application>
+		<apkid>com.appwallet.pixelimagemaker</apkid>
+                <appname>Pix Lab</appname>
+		<imageurl>http://178.128.6.196/appwalletad/pixlab.png</imageurl>
+	</application>	
+        <application>
+		<apkid>com.appwallet.ditto</apkid>
+		<appname>Ditto</appname>
+		<imageurl>http://178.128.6.196/appwalletad/ditto.png</imageurl>
+	</application>
+        <application>
+		<apkid>com.appwallet.easyblur</apkid>
+		<appname>Blurfoto</appname>
+		<imageurl>http://178.128.6.196/appwalletad/blurfoto.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.natureeditor</apkid>
+		<appname>Nature Editor</appname>
+		<imageurl>http://178.128.6.196/appwalletad/natureeditor.png</imageurl>
+	</application>
+	
+	<application>
+		<apkid>com.appwallet.wildanimalphotoeditor</apkid>
+		<appname>Wild Animal</appname>
+		<imageurl>http://178.128.6.196/appwalletad/wildanimal.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.blendme</apkid>
+		<appname>Blend Me</appname>
+		<imageurl>http://178.128.6.196/appwalletad/blendMe.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.colorsplash2</apkid>
+		<appname>Color Splash</appname>
+		<imageurl>http://178.128.6.196/appwalletad/colorsplashnew.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.CutOut</apkid>
+		<appname>CutOut</appname>
+		<imageurl>http://178.128.6.196/appwalletad/bgeraser.png</imageurl>
+	</application>
+	<application>
+		<apkid>appwallet.imageblending</apkid>
+		<appname>PhotoBlendMagic</appname>
+		<imageurl>http://178.128.6.196/appwalletad/photoblendmagic.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.backgroundremoverpro</apkid>
+		<appname>Bg Remover</appname>
+		<imageurl>http://178.128.6.196/appwalletad/backgroundremover.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.instantquotes</apkid>
+		<appname>Quotopic</appname>
+		<imageurl>http://178.128.6.196/appwalletad/quotopic.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.EditorPlus</apkid>
+		<appname>Editor plus</appname>
+		<imageurl>http://178.128.6.196/appwalletad/editor.png</imageurl>
+	</application>
+
+	<application>
+		<apkid>com.appwallet.jerseydesignerapp</apkid>
+		<appname>Jersey Designer</appname>
+		<imageurl>http://178.128.6.196/appwalletad/jerseydesign.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.waterfallphotoblend</apkid>
+		<appname>Waterfall Blend</appname>
+		<imageurl>http://178.128.6.196/appwalletad/waterfall.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.photocollageappwallet</apkid>
+		<appname>Collagee</appname>
+		<imageurl>http://178.128.6.196/appwalletad/collagee.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.photoblur3</apkid>
+		<appname>Focus Blur</appname>
+		<imageurl>http://178.128.6.196/appwalletad/focusblur.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.com.appwallet.namesonpicture</apkid>
+		<appname>NameOnPic</appname>
+		<imageurl>http://178.128.6.196/appwalletad/nameonpic.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.manmustachebeard</apkid>
+		<appname>MustacheBeard</appname>
+		<imageurl>http://178.128.6.196/appwalletad/manmustache.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.instanteffects</apkid>
+		<appname>InstantEffect</appname>
+		<imageurl>http://178.128.6.196/appwalletad/instanteffect.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.manphotosuits</apkid>
+		<appname>ManPhotoSuit</appname>
+		<imageurl>http://178.128.6.196/appwalletad/manphotosuit.png</imageurl>
+	</application>
+	<application>
+		<apkid>com.appwallet.passportphotomaker</apkid>
+		<appname>PassportMaker</appname>
+		<imageurl>http://178.128.6.196/appwalletad/passport.png</imageurl>
+	</application>
+
+</firstscreenapps>
